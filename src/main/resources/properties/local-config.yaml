@@ -1,0 +1,5 @@
+http:
+  request:
+    host: mule-dev.cnoinc.com
+    port: 443
+    path: /hello-muleys/helloMuleys
